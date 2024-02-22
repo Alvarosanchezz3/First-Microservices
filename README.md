@@ -18,3 +18,6 @@ La arquitectura consta de cinco microservicios, cada uno con su propia responsab
 2. Abre cada microservicio en tu IDE favorito.
 3. Ejecuta cada microservicio en tu entorno local.
 4. ¡Explora la arquitectura de microservicios y realiza pruebas! 
+
+## Esquema
+![Captura](https://github.com/Alvarosanchezz3/First-Microservices/assets/99328696/10fdb1a9-de1a-43fb-9874-b880f288586d)
