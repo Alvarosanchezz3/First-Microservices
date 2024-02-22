@@ -6,23 +6,11 @@ Este proyecto implementa una arquitectura de microservicios utilizando tecnolog�
 
 La arquitectura consta de cinco microservicios, cada uno con su propia responsabilidad y funcionalidad:
 
-- **Eureka**: Servidor de registro y descubrimiento para facilitar la comunicación dinámica entre microservicios.
-- **Config**: Gestiona la configuración externa de la aplicación.
-- **Gateway**: Punto de entrada único para los clientes, proporcionando enrutamiento de solicitudes y funciones adicionales.
-- **Orders**: Gestiona operaciones relacionadas con pedidos.
-- **Clients**: Gestiona operaciones relacionadas con clientes.
-
-## Estructura del Proyecto
-
-El repositorio está organizado de la siguiente manera:
-
-- `eureka-service/`: Código fuente del microservicio Eureka.
-- `config-service/`: Código fuente del microservicio Config.
-- `gateway-service/`: Código fuente del microservicio Gateway.
-- `orders-service/`: Código fuente del microservicio Orders.
-- `clients-service/`: Código fuente del microservicio Clients.
-
-Cada directorio contiene el código fuente y los archivos de configuración específicos de cada microservicio.
+- `Msvc-Eureka`: Servidor de registro y descubrimiento para facilitar la comunicación dinámica entre microservicios.
+- `Msvc-Config`: Gestiona la configuración externa de la aplicación.
+- `Msvc-Gateway`: Punto de entrada único para los clientes, proporcionando enrutamiento de solicitudes y funciones adicionales.
+- `Msvc-Order`: Gestiona operaciones relacionadas con pedidos.
+- `Msvc-Client`: Gestiona operaciones relacionadas con clientes.
 
 ## Uso
 
